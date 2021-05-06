@@ -1,0 +1,24 @@
+{
+  "name": "HAN",
+  "logoURI": "http://down.hannetwork.cn/imgs/han_logo.png",
+  "keywords": [
+      "han",
+      "HAN"
+    ],
+    "timestamp": "2021-05-05T02:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x159236212b07bd03ffb30eb518334d8eb87abcfe",
+      "name": "HAN",
+      "symbol": "HAN",
+      "decimals": 18,
+      "logoURI": "http://down.hannetwork.cn/imgs/han_logo.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
